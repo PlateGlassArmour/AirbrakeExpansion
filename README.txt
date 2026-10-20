@@ -77,5 +77,5 @@ TROUBLESHOOTING
 PROJECT AND LICENSE
 -------------------
 License: MIT (see LICENSE.txt)
-Source code: TBD
+Source code: https://github.com/PlateGlassArmour/AirbrakeExpansion
 Downloads: TBD
