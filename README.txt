@@ -1,7 +1,6 @@
 AIRBRAKE EXPANSION
 ==================
 Kerbal Space Program 1 (KSP 1.12.x)
-README draft for the upcoming public release
 
 OVERVIEW
 --------
