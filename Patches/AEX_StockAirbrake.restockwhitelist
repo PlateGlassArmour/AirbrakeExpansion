@@ -1,0 +1,3 @@
+// All three AEX part MODEL nodes refer to Squad's stock airbrake assets.
+// ReStock otherwise may blacklist them from loading. Do not redistribute them.
+Squad/Parts/Aero/airbrake/
