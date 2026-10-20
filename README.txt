@@ -77,4 +77,4 @@ PROJECT AND LICENSE
 -------------------
 License: MIT (see LICENSE.txt)
 Source code: https://github.com/PlateGlassArmour/AirbrakeExpansion
-Downloads: TBD
+Downloads: https://spacedock.info/mod/4723/Airbrake%20Expansion
